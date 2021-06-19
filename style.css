@@ -64,7 +64,7 @@ img{
 .attribution{
 	color: #ccc;
 }
-@media only screen and (max-width: 375px){
+@media only screen and (max-width: 450px){
 	.principal-container{
 		height: 700px;
 		width: 350px;
